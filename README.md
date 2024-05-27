@@ -1,6 +1,6 @@
 # hexacore auto claim
 # Register
-- https://t.me/HexacoinBot/wallet?startapp=6953912161
+- https://t.me/HexacoinBot/wallet?startapp=6465178420
 
 ```
 git clone https://github.com/AirDropFamilyIDN/hexacore.git
